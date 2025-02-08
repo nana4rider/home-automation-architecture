@@ -23,7 +23,7 @@ jobs:
         uses: rlespinasse/drawio-export-action@v2
         with:
           format: png
-          transparent: true
+          transparent: false
           output: export
 
       - name: Get author and committer info from HEAD commit
