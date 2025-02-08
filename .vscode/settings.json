@@ -1,0 +1,21 @@
+{
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "files.eol": "\n",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "[dotenv]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[nginx]": {
+    "editor.defaultFormatter": "ahmadalli.vscode-nginx-conf"
+  },
+  "[properties]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
+}
