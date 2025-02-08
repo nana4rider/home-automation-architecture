@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="main">
-    <mxGraphModel dx="869" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -722,13 +722,14 @@
             <mxPoint x="630" y="-410" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;strokeColor=#E87A0B;dashed=1;dashPattern=8 8;" parent="1" target="GJ7LxBMfQK9tdvE5ejNK-110" edge="1">
+        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;strokeColor=#E87A0B;dashed=1;dashPattern=8 8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="GJ7LxBMfQK9tdvE5ejNK-110" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="1380" />
-              <mxPoint x="340" y="980" />
+              <mxPoint x="340" y="960" />
             </Array>
             <mxPoint x="160" y="1380" as="sourcePoint" />
+            <mxPoint x="540" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-110" value="Home Assistant OS" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNDAgMjQwIiBoZWlnaHQ9IjI0MCIgd2lkdGg9IjI0MCI+JiN4YTs8cGF0aCBmaWxsPSIjRjJGNEY5IiBkPSJNMjQwIDIyNC43NjJDMjQwIDIzMy4wMTIgMjMzLjI1IDIzOS43NjIgMjI1IDIzOS43NjJIMTVDNi43NSAyMzkuNzYyIDAgMjMzLjAxMiAwIDIyNC43NjJWMTM0Ljc2MkMwIDEyNi41MTIgNC43NyAxMTQuOTkzIDEwLjYxIDEwOS4xNTNMMTA5LjM5IDEwLjM3MjVDMTE1LjIyIDQuNTQyNSAxMjQuNzcgNC41NDI1IDEzMC42IDEwLjM3MjVMMjI5LjM5IDEwOS4xNjJDMjM1LjIyIDExNC45OTIgMjQwIDEyNi41MjIgMjQwIDEzNC43NzJWMjI0Ljc3MlYyMjQuNzYyWiIvPiYjeGE7PHBhdGggZmlsbD0iIzE4QkNGMiIgZD0iTTIyOS4zOSAxMDkuMTUzTDEzMC42MSAxMC4zNzI1QzEyNC43OCA0LjU0MjUgMTE1LjIzIDQuNTQyNSAxMDkuNCAxMC4zNzI1TDEwLjYxIDEwOS4xNTNDNC43OCAxMTQuOTgzIDAgMTI2LjUxMiAwIDEzNC43NjJWMjI0Ljc2MkMwIDIzMy4wMTIgNi43NSAyMzkuNzYyIDE1IDIzOS43NjJIMTA3LjI3TDY2LjY0IDE5OS4xMzJDNjQuNTUgMTk5Ljg1MiA2Mi4zMiAyMDAuMjYyIDYwIDIwMC4yNjJDNDguNyAyMDAuMjYyIDM5LjUgMTkxLjA2MiAzOS41IDE3OS43NjJDMzkuNSAxNjguNDYyIDQ4LjcgMTU5LjI2MiA2MCAxNTkuMjYyQzcxLjMgMTU5LjI2MiA4MC41IDE2OC40NjIgODAuNSAxNzkuNzYyQzgwLjUgMTgyLjA5MiA4MC4wOSAxODQuMzIyIDc5LjM3IDE4Ni40MTJMMTExIDIxOC4wNDJWMTAyLjE2MkMxMDQuMiA5OC44MjI1IDk5LjUgOTEuODQyNSA5OS41IDgzLjc3MjVDOTkuNSA3Mi40NzI1IDEwOC43IDYzLjI3MjUgMTIwIDYzLjI3MjVDMTMxLjMgNjMuMjcyNSAxNDAuNSA3Mi40NzI1IDE0MC41IDgzLjc3MjVDMTQwLjUgOTEuODQyNSAxMzUuOCA5OC44MjI1IDEyOSAxMDIuMTYyVjE4My40MzJMMTYwLjQ2IDE1MS45NzJDMTU5Ljg0IDE1MC4wMTIgMTU5LjUgMTQ3LjkzMiAxNTkuNSAxNDUuNzcyQzE1OS41IDEzNC40NzIgMTY4LjcgMTI1LjI3MiAxODAgMTI1LjI3MkMxOTEuMyAxMjUuMjcyIDIwMC41IDEzNC40NzIgMjAwLjUgMTQ1Ljc3MkMyMDAuNSAxNTcuMDcyIDE5MS4zIDE2Ni4yNzIgMTgwIDE2Ni4yNzJDMTc3LjUgMTY2LjI3MiAxNzUuMTIgMTY1LjgwMiAxNzIuOTEgMTY0Ljk4MkwxMjkgMjA4Ljg5MlYyMzkuNzcySDIyNUMyMzMuMjUgMjM5Ljc3MiAyNDAgMjMzLjAyMiAyNDAgMjI0Ljc3MlYxMzQuNzcyQzI0MCAxMjYuNTIyIDIzNS4yMyAxMTUuMDAyIDIyOS4zOSAxMDkuMTYyVjEwOS4xNTNaIi8+JiN4YTs8L3N2Zz4=;" parent="1" vertex="1">
