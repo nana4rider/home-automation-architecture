@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="main">
-    <mxGraphModel dx="2607" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -719,7 +719,7 @@
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-450" value="顔登録" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];dashed=0;pointerEvents=0;strokeColor=#232F3E;spacingLeft=30;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;" parent="GJ7LxBMfQK9tdvE5ejNK-411" vertex="1" connectable="0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="-380" as="offset" />
+            <mxPoint x="640" y="-380" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;strokeColor=#E87A0B;dashed=1;dashPattern=8 8;" parent="1" target="GJ7LxBMfQK9tdvE5ejNK-110" edge="1">
