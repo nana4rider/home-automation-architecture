@@ -10,7 +10,7 @@
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-321" value="Local Area&amp;nbsp;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;Network&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;pointerEvents=0;strokeColor=#232F3E;align=left;spacingLeft=7;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;labelPosition=center;opacity=30;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="1520" height="1560" as="geometry" />
         </mxCell>
-        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-18" value="manager.home&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;&amp;nbsp;(Raspberry Pi 4 B)&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;dashed=0;pointerEvents=0;strokeColor=#232F3E;align=left;spacingLeft=30;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=#ED207F;gradientColor=none;labelPosition=center;opacity=10;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-18" value="manager.home&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(35, 47, 62), rgb(189, 199, 212));&quot;&gt;&amp;nbsp;(Raspberry Pi 4 B)&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;dashed=0;pointerEvents=0;strokeColor=#232F3E;align=left;spacingLeft=30;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=#ED207F;gradientColor=none;labelPosition=center;opacity=10;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="80" width="1440" height="720" as="geometry" />
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-88" value="Docker Container" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;pointerEvents=0;strokeColor=#000000;align=left;spacingLeft=8;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;labelPosition=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;opacity=30;" parent="1" vertex="1">
@@ -31,12 +31,6 @@
             </Array>
             <mxPoint x="1340" y="1280.0000000000002" as="sourcePoint" />
             <mxPoint x="750" y="200.0033333333333" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=#ffe6cc;strokeColor=#009438;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WD1JXpPn3CS7hsKXnepg-1" target="WD1JXpPn3CS7hsKXnepg-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="200" as="sourcePoint" />
-            <mxPoint x="1520" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=#ffe6cc;strokeColor=#009438;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="WD1JXpPn3CS7hsKXnepg-1" target="uKd3zHSR1_erB_LPOv0q-3" edge="1">
