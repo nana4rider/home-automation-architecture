@@ -266,7 +266,7 @@
             <mxPoint x="-20" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-204" value="Home Assistant Addons &amp;amp; HACS" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;pointerEvents=0;strokeColor=#000000;align=left;spacingLeft=8;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;labelPosition=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;opacity=30;" parent="1" vertex="1">
+        <mxCell id="GJ7LxBMfQK9tdvE5ejNK-204" value="Home Assistant Addons" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=0;indent=0;pointerEvents=0;strokeColor=#000000;align=left;spacingLeft=8;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=none;gradientColor=none;labelPosition=center;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="360" y="1040" width="520" height="480" as="geometry" />
         </mxCell>
         <mxCell id="GJ7LxBMfQK9tdvE5ejNK-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#232F3E;fontStyle=0;labelBackgroundColor=#ffffff;fillColor=#f8cecc;strokeColor=#F69B17;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="S6iq45oHcI33zPKQ01i6-1" target="GJ7LxBMfQK9tdvE5ejNK-20" edge="1">
