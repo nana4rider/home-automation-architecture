@@ -34,6 +34,12 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "docs: sync draw.io exported files"
-          commit_user_name: "${{ env.GIT_COMMIT_COMMITTER_NAME }}"
-          commit_user_email: "${{ env.GIT_COMMIT_COMMITTER_EMAIL }}"
+          commit_user_name: "${{ secrets.GIT_COMMIT_COMMITTER_NAME }}"
+          commit_user_email: "${{ secrets.GIT_COMMIT_COMMITTER_EMAIL }}"
         if: github.ref == 'refs/heads/main'
+
+      - name: "Notify Discord"
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
